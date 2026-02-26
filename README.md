@@ -37,4 +37,20 @@ Formulario principal.
 ## Reporte del Estudiante
 ### Al seleccionar un estudiante se habilita el boton "Reportes" el cual nos permitiria ver las materias asignadas del estudiante.
 
+##  ▶ Cómo Ejecutar el Proyecto
+Clonar el repositorio
+
+Abrir la solución en Visual Studio.
+
+Configurar la cadena de conexión en el archivo App.config.
+
+Ejecutar el proyecto presionando F5.
+
+## 🎓 Contexto Académico
+Nivel: Secundaria Técnico Profesional
+Módulo Formativo: Desarrollo y Administración de Aplicaciones Informáticas
+Año Escolar: 2025 - 2026
+#👨‍💻 Autor
+## Yiver David Fousten Martinez.
+
 
